@@ -1,2 +1,2 @@
 # designpatterns
-Object orientd patterns saved!
+Object Oriented patterns saved!
